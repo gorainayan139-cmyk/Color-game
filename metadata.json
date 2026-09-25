@@ -1,0 +1,6 @@
+{
+  "name": "Color Predictor",
+  "description": "Fast-paced color and number prediction game with dual account modes, live countdown rounds, real-time betting, analytics trends, and full admin control panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
